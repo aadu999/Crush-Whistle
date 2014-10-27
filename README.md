@@ -1,4 +1,4 @@
-Crush-Whistle
+Let Her KISS by a whistle
 =============
 
-Crush Whistle is a chrome experiment based on Whistle 
+Let Her Kiss by a whistle is a chrome experiment game. Users are requested to whistle to move the girl and kiss the boy.
